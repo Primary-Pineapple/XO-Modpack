@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "XO",
-  "version": "0.0.1a",
+  "version": "",
   "author": "",
   "files": [
     {
@@ -102,6 +102,11 @@
     {
       "projectID": 404468,
       "fileID": 4579981,
+      "required": true
+    },
+    {
+      "projectID": 676136,
+      "fileID": 4024855,
       "required": true
     },
     {
@@ -255,6 +260,11 @@
       "required": true
     },
     {
+      "projectID": 631990,
+      "fileID": 4503151,
+      "required": true
+    },
+    {
       "projectID": 537533,
       "fileID": 3502166,
       "required": true
@@ -307,6 +317,11 @@
     {
       "projectID": 565368,
       "fileID": 3601527,
+      "required": true
+    },
+    {
+      "projectID": 320163,
+      "fileID": 3757530,
       "required": true
     },
     {
