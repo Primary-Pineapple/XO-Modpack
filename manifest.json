@@ -1,0 +1,79 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge-47.1.10",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "XO",
+  "version": "",
+  "author": "",
+  "files": [
+    {
+      "projectID": 581495,
+      "fileID": 4578741,
+      "required": false
+    },
+    {
+      "projectID": 429235,
+      "fileID": 4574361,
+      "required": true
+    },
+    {
+      "projectID": 790626,
+      "fileID": 4728408,
+      "required": true
+    },
+    {
+      "projectID": 574856,
+      "fileID": 4684247,
+      "required": false
+    },
+    {
+      "projectID": 238086,
+      "fileID": 4748655,
+      "required": true
+    },
+    {
+      "projectID": 324717,
+      "fileID": 4711195,
+      "required": true
+    },
+    {
+      "projectID": 521393,
+      "fileID": 4732520,
+      "required": true
+    },
+    {
+      "projectID": 419699,
+      "fileID": 4663010,
+      "required": true
+    },
+    {
+      "projectID": 310111,
+      "fileID": 4757634,
+      "required": true
+    },
+    {
+      "projectID": 416294,
+      "fileID": 4735056,
+      "required": true
+    },
+    {
+      "projectID": 280510,
+      "fileID": 4714729,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 4633444,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
