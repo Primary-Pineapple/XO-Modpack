@@ -10,4 +10,8 @@ Heavy emphasis on online play & large scale exploration & adventure.
 
 Custom content, structures & dimensions are part of the plan.
 
+## Frequently Asked Questions
+#### What is the modpack name?
+Not completely decided. and hardly too important right this second.
+
 ## Sponsors
