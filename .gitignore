@@ -6,12 +6,18 @@ options.txt
 
 #Ignore Logs
 /logs 
-.log
-.logs
+*.log
+*.logs
 
 #Ignore Local Files
 /Local
 rhino.local.properties
 
-## REI Ignore
+# REI Ignore
 hints.json
+
+# JourneyMap Ignore
+journeymap/icon/theme
+
+# Kube JS
+kubejs/readme.txt
