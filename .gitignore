@@ -3,11 +3,14 @@
 minecraftinstance.json
 realms_persistence.json
 options.txt
+usercache.json
+usernamecache.json
 
 #Ignore Logs
 /logs 
 *.log
 *.logs
+/crash-reports
 
 #Ignore Local Files
 /Local
@@ -21,3 +24,6 @@ journeymap/icon/theme
 
 # Kube JS
 kubejs/readme.txt
+
+# Local Save Files
+/saves/*
