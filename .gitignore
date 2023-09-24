@@ -1,7 +1,17 @@
-## FILES TO IGNORE
+## Ignore Misc
 .curseclient
 minecraftinstance.json
 realms_persistence.json
 options.txt
-/logs
+
+#Ignore Logs
+/logs 
+.log
+.logs
+
+#Ignore Local Files
+/Local
+rhino.local.properties
+
+## REI Ignore
 hints.json
