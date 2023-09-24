@@ -7,6 +7,10 @@ event.remove({ output: 'minecraft:end_crystal' })
 event.remove({ output: '#minecraft:beds' })
 
 
+// OUTPUT ADJUSTMENTS
+//
+//
+//
 
 
 //LOGS TO 2x PLANKS ONLY
@@ -32,6 +36,26 @@ event.shapeless(
     ['3x minecraft:gravel'] // Input
   )
 
+
+
+//RECIPE ADJUSTMENTS
+//
+//
+//
+
+
+//CRAFTING TABLE
+event.shaped(
+  Item.of('minecraft:crafting_table'), 
+  [ 
+    'AA', 
+    'BB'
+  ],
+  {
+    A: 'minecraft:flint', 
+    B: '#minecraft:logs'
+  }
+)
   
 
 
