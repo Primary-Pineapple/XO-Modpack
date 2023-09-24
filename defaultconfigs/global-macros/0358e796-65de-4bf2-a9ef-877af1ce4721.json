@@ -1,0 +1,11 @@
+{
+  "uuid": "0358e796-65de-4bf2-a9ef-877af1ce4721",
+  "name": "Reload All",
+  "actionText": "/reload",
+  "key": 329,
+  "keyName": "Keypad 9",
+  "action": "COMMAND",
+  "enable": true,
+  "macroType": "SIMPLE",
+  "createdTime": 1695534303288
+}
