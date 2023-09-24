@@ -21,9 +21,13 @@ hints.json
 
 # JourneyMap Ignore
 journeymap/icon/theme
+journeymap/data
+journeymap/server
 
 # Kube JS
 kubejs/readme.txt
 
 # Local Save Files
 /saves/*
+config/roughlyenoughitems/pinyin.properties
+config/roughlyenoughitems/pinyin_double.properties
