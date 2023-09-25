@@ -1,0 +1,20 @@
+- Torch Recipe
+    Probably need to rename the original and realistic torch so people can find it.
+
+- FTB Integration with journeymap is jank, need to work out or build something to smooth this over.
+
+- Night time events with Mobs?
+
+- Need something like ISNT for 1.20.x, or at least wait until that mod ports.
+
+- Ad Astra, custom planets are possible, but getting them to work with KubeJS is going to be a challenge. More research needed.
+
+- Custom Structures, build with KubeJS or some other method?
+
+- What does the store look like and how will LC coins be used and earned via FTB Quests?
+    A better solution than FTB Quests would be nice, but not sure anything exists right now. More research needed.
+
+- Primitive Tools are going to be difficult to enforce without a tool mod, like Tinkers. The Tinkers team don't yet have any indication on if or when they will port to 1.20.x.
+
+- Need a logo, icons, custom models & someone to build Structures etc. Could list on CBK?
+
