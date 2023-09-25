@@ -1,7 +1,5 @@
 # Xplore Online - Modpack
 
-### This project is considered All Rights Reserved.
-
 ### Read me coming soon. I'm lazy with documentation.
 
 ## What am I building?
