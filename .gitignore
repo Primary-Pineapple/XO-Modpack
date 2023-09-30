@@ -5,6 +5,7 @@ realms_persistence.json
 options.txt
 usercache.json
 usernamecache.json
+/.vscode/
 
 #Ignore Logs
 /logs 
