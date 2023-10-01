@@ -1,16 +1,20 @@
 
 
 ServerEvents.recipes(event => { 
+
+                                                // REMOVE RECEIPES \\
+
+
+                                                
   
 event.remove({ output: 'minecraft:crafting_table' })
 event.remove({ output: 'minecraft:end_crystal' })
 event.remove({ output: '#minecraft:beds' })
 
 
-// OUTPUT ADJUSTMENTS
-//
-//
-//
+                                               // OUTPUT ADJUSTMENTS \\
+
+
 
 
 //LOGS TO 2x PLANKS ONLY
@@ -38,10 +42,7 @@ event.shapeless(
 
 
 
-//RECIPE ADJUSTMENTS
-//
-//
-//
+                                              // RECIPE ADJUSTMENTS \\
 
 
 //CRAFTING TABLE
