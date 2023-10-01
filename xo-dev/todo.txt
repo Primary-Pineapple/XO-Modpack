@@ -18,3 +18,4 @@
 
 - Need a logo, icons, custom models & someone to build Structures etc. Could list on CBK?
 
+- Flesh out silentgear starting game tools.
