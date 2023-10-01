@@ -1,0 +1,72 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 64
+  width = 384
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = f28fc332-3147-44ce-8513-c72fd0f807361696164879193
+  y = 144
+  height = 96
+}
+
+customization {
+  custom_color_hex = #003A42
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = fe2e756d-c631-42e9-9a06-5762a27e9cbc1696164879200
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = a8b8b8
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 64
+  width = 384
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = f9d0acd1-a784-4b16-ba30-2ac45ec41f391696164879200
+  y = 314
+  height = 10
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = UNSTABLE BUILD - EXPECT BUGS
+  text_border = 0
+  case_mode = upper
+  source_mode = direct
+  line_spacing = 1
+  x = -100
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = fe0a4c6c-2c17-48eb-9591-017d31c671001696164977964
+  y = -13
+  alignment = centered
+  base_color = A10C31
+  height = 13
+}
+
