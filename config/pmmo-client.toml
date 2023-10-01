@@ -42,7 +42,7 @@
 		"hide skill button" = false
 		#the horizontal location of the skill button in the inventory.
 		#Default = 126.  For removing overlaps, 150 is a good setting
-		skill_button_x = 126
+		skill_button_x = 150
 		#the vertical location (from center) of the skill button in the inventory.
 		#Default = -22
 		skill_button_y = -22
