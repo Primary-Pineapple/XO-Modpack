@@ -22,6 +22,8 @@ directional_sources = false
 hrtf = false
 stereo_capture = false
 
+[voice.volumes.proximity]
+volume = 1.0
 
 [advanced]
 visualize_voice_distance = true
@@ -44,3 +46,5 @@ overlay_enabled = true
 overlay_position = "TOP_LEFT"
 overlay_style = "NAME_SKIN"
 
+[overlay.source_states]
+proximity = "OFF"
