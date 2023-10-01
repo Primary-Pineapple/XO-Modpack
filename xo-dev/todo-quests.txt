@@ -1,2 +1,3 @@
 - Wallet quests, they have to be bought from the store. Except for the first one.
 - Torch quests, torches aren't normal.
+- Silentsgear introduction and how to get around it.
