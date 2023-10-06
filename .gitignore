@@ -32,3 +32,6 @@ kubejs/readme.txt
 /saves/*
 config/roughlyenoughitems/pinyin.properties
 config/roughlyenoughitems/pinyin_double.properties
+
+# Bluemap
+/config/bluemap/
