@@ -33,7 +33,7 @@
 		#What color should the background be for the salvage item lines in the glossary
 		"Salvage Item Color" = 366125849
 		#how much xp gain history should display
-		"Gain List Size" = 3
+		"Gain List Size" = 4
 		#How long, in ticks, items on the gain list should stay on screen before disappearing
 		"Gain List Linger Duration" = 100
 		#skills that should now show their gains in the gain list.  this can be used to limit spammy skills
