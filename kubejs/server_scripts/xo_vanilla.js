@@ -2,7 +2,7 @@
 
 ServerEvents.recipes(event => { 
 
-                                                // REMOVE RECEIPES \\
+// REMOVE RECEIPES \\
 
 
                                                 
@@ -12,7 +12,7 @@ event.remove({ output: 'minecraft:end_crystal' })
 event.remove({ output: '#minecraft:beds' })
 
 
-                                               // OUTPUT ADJUSTMENTS \\
+// OUTPUT ADJUSTMENTS \\
 
 
 
@@ -42,7 +42,7 @@ event.shapeless(
 
 
 
-                                              // RECIPE ADJUSTMENTS \\
+// RECIPE ADJUSTMENTS \\
 
 
 //CRAFTING TABLE
