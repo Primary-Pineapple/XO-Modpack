@@ -6,6 +6,7 @@ options.txt
 usercache.json
 usernamecache.json
 /.vscode/
+/modernfix/
 
 #Ignore Logs
 /logs 
