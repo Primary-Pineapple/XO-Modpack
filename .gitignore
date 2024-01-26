@@ -1,0 +1,5 @@
+logs/telemetry/20240126-1.json
+*.log
+*.logs
+.curseclient
+minecraftinstance.json
