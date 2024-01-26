@@ -3,5 +3,4 @@ logs/
 *.logs
 .curseclient
 minecraftinstance.json
-mods
 roughlyenoughitems/
