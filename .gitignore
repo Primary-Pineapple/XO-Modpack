@@ -1,5 +1,7 @@
-logs/telemetry/20240126-1.json
+logs/
 *.log
 *.logs
 .curseclient
 minecraftinstance.json
+mods/
+roughlyenoughitems/
